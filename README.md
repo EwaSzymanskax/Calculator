@@ -5,7 +5,6 @@
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
-* [Setup](#setup)
 
 
 ## General Information
